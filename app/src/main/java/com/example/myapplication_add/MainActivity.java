@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     // make a reference to buttons..
     Button btn_add, btn_view;
     EditText et_name, et_age;
-    Switch switch1;
+
     ListView lv_StudentList;
     ArrayAdapter studentArrayAdapter;
     DataBaseHelper dataBaseHelper;
